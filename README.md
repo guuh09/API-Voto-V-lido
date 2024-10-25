@@ -23,5 +23,6 @@ npm run dev
 
 Depois de executar o comando espere aparecer a mensagem  
 
-'conectou ao banco!' e  app rodando na porta 3333
+'conectou ao banco!' e  'app rodando na porta 3333'
 
+Observação: A API precisa estar em execução para que o projeto Voto Válido funcione corretamente!
